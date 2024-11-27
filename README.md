@@ -1,4 +1,4 @@
-## Someting about me: ##
+## Something about me: ##
 - 👋 Hi, I’m @Alejandro-esliceu.
 - 👀 I’m interested in skateboarding.
 - 🌱 I’m currently learning about microsystems.
